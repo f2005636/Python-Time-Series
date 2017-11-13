@@ -5,7 +5,7 @@ Information on Time Series datasets: The datasets were downloaded from Infoshare
 * RetailNZTS4: Monthly data, 4 columns, 185 rows
 
 ### Tourism and travel
-1. AccRegNZTS13: Monthly data, 13 columns, 195 rows
-2. AccomNZTS12: Monthly data, 12 columns, 195 rows 
-3. NZDestNZTS9: Monthly data, 9 columns, 170 rows
-4. VisitorsNatNZTS9: Monthly data, 9 columns, 170 rows
+* AccRegNZTS13: Monthly data, 13 columns, 195 rows
+* AccomNZTS12: Monthly data, 12 columns, 195 rows 
+* NZDestNZTS9: Monthly data, 9 columns, 170 rows
+* VisitorsNatNZTS9: Monthly data, 9 columns, 170 rows
